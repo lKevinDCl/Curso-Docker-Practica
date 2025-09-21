@@ -4,7 +4,7 @@
 > Permite jalar una imagen en especifico
 ##   docker pull hello-world
 
->  1. Consola devolvio:
+>  >1. Consola devolvio:
     docker pull hello-world
     Using default tag: latest
     latest: Pulling from library/hello-world
