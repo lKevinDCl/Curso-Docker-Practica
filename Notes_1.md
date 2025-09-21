@@ -1,7 +1,7 @@
- ## Comandos de Docker
+#   Comandos de Docker
 
 > Permite jalar una imagen en especifico
-#   docker pull hello-world
+##  docker pull hello-world
 
 > > 1. Consola devolvio:
     docker pull hello-world
@@ -13,8 +13,8 @@
     docker.io/library/hello-world:latest
 
 
-> Para correr una imagen
-#   docker container run hello-world
+>  Para correr una imagen
+##  docker container run hello-world
 
 > > 2. La consola me devovlio:
     Hello from Docker!
@@ -41,7 +41,7 @@
 ![alt text](screenchots/image0.png)
 
 > Al ejecutarsre por 2da vez, no indica que esta completamente actualizado
-#   docker pull hello-world
+##  docker pull hello-world
 
 > > 3. La consola me devovlio:
     Using default tag: latest
