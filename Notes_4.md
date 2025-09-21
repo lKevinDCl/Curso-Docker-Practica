@@ -1,4 +1,17 @@
-# Comandos de Docker 3
+# Comandos de Docker 4 / Desktop
 
-## Permite visualizar todos los comandos de docker:
->   docker container run docker/getting-started
+## Contenedores desde el desktop:
+
+![alt text](screenshots/image5.png)
+
+## Tags de hellos-world:
+
+![alt text](screenshots/image6.png)
+
+## Ejecutar con Run:
+
+![alt text](screenshots/image7.png)
+
+> > Contenedor en funcionamiento:
+
+![alt text](screenshots/image8.png)
