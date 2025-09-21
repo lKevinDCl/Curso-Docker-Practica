@@ -1,6 +1,6 @@
 # Comandos de Docker 3
 
-## Permite visualizar todos los comandos de docker:
+## Permite ejecutar un contenedor de docker:
 >   docker container run docker/getting-started
 
 ![alt text](screenshots/image2.png)
