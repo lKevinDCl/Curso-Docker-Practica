@@ -3,7 +3,7 @@
 > Permite jalar una imagen en especifico
 #   docker pull hello-world
 
-> > 1. Consola devolvio:
+>  1. Consola devolvio:
     docker pull hello-world
     Using default tag: latest
     latest: Pulling from library/hello-world
@@ -13,10 +13,10 @@
     docker.io/library/hello-world:latest
 
 
-> Para correr una imagen
+> >Para correr una imagen
 #   docker container run hello-world
 
-> > 2. La consola me devovlio:
+>  2. La consola me devovlio:
     Hello from Docker!
     This message shows that your installation appears to be working correctly.
 
@@ -40,10 +40,10 @@
 
 ![alt text](screenchots/image0.png)
 
-> Al ejecutarsre por 2da vez, no indica que esta completamente actualizado
+> >Al ejecutarsre por 2da vez, no indica que esta completamente actualizado
 #   docker pull hello-world
 
-> > 3. La consola me devovlio:
+>  3. La consola me devovlio:
     Using default tag: latest
     latest: Pulling from library/hello-world
     Digest: sha256:54e66cc1dd1fcb1c3c58bd8017914dbed8701e2d8c74d9262e26bd9cc1642d31
