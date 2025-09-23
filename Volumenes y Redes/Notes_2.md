@@ -43,4 +43,4 @@ ee34687ec1be0558ed5cb3fa6f96f232a7c1dd34e10c6e8791d9bf5c5f5a85d9
 
 >> Persitencia de datos:
 
-![alt text](screenshots-Lesson-2/image.png)
+![alt text](screenshots-Lesson-2/image7.png)
