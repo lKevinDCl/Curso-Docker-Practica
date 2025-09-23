@@ -9,8 +9,8 @@ b1eb7e318b04   postgres                 "docker-entrypoint.s…"   15 seconds ag
 
 ## Se crea una conexión con TablePLus:
 
-![alt text](screenshots/image10.png)
+![alt text](screenshots-Lesson-1/image10.png)
 
 ## Crear una base de datos de pruebas:
 
-![alt text](screenshots/image11.png)
+![alt text](screenshots-Lesson-1/image11.png)

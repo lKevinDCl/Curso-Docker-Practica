@@ -119,4 +119,4 @@ Version: '11.3.2-MariaDB-1:11.3.2+maria~ubu2204'  socket: '/run/mysqld/mysqld.so
 
 ## comprobacion con la conexion:
 
-![alt text](screenshots/image15.png)
+![alt text](screenshots-Lesson-1/image15.png)

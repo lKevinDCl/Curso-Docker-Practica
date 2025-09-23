@@ -4,4 +4,4 @@
 > docker images ls
 
 ## Imagenes
-![alt text](image-1.png)
+![alt text](screenshots-Lesson-1/image16.png)

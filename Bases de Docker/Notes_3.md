@@ -3,7 +3,7 @@
 ## Permite ejecutar un contenedor de docker:
 >   docker container run docker/getting-started
 
-![alt text](screenshots/image2.png)
+![alt text](screenshots-Lesson-1/image2.png)
 
 ## Permite que es contenedor se mantenga en ejecución:
 >   docker container run -d docker/getting-started
@@ -15,8 +15,8 @@
 ## Permite asignarle un puerto a un contenedor en especifico
 > docker container run -d -p 80:80 docker/getting-started   
 > docker container run -dp 80:8080 docker/getting-started   
-![alt text](screenshots/image3.png)
+![alt text](screenshots-Lesson-1/image3.png)
 
-![alt text](screenshots/image4.png)
+![alt text](screenshots-Lesson-1/image4.png)
 
 
