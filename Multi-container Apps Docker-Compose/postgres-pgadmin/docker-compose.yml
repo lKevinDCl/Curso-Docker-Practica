@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  postgres-db:
+    image: postgres:15.1
+    container_name: postgres-db
+    environment:
+      POSTGRES_PASSWORD: 123456
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - postgres-net
+
+  pgadmin:
+    image: dpage/pgadmin4:6.17
+    container_name: pgAdmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: superman@google.com
+      PGADMIN_DEFAULT_PASSWORD: 123456
+    ports:
+      - "8080:80"
+    networks:
+      - postgres-net
+
+volumes:
+  postgres-data:
+
+networks:
+  postgres-net:
