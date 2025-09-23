@@ -126,3 +126,6 @@ Status: Downloaded newer image for dpage/pgadmin4:6.17
 ## Resultado Final:
 
 ![alt text](../screenshots-Lesson-3/image3.png)
+
+
+![alt text](../screenshots-Lesson-3/image4.png)
