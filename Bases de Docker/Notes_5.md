@@ -2,7 +2,7 @@
 
 ## Se busca la imagen de postgres oficial:
 
-![alt text](screenshots-Lesson-1/image9.png)
+![alt text](../screenshots-Lesson-1/image9.png)
 
 ## Se instala la imagen de postgres:
 

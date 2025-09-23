@@ -71,7 +71,7 @@ PostgreSQL init process complete; ready for start up.
 
 ## Creamos una nueva conexión:
 
-![alt text](screenshots-Lesson-1/image12.png)
+![alt text](../screenshots-Lesson-1/image12.png)
 
 
 ## Creamos una nueva instancia Beta:
@@ -80,8 +80,8 @@ PostgreSQL init process complete; ready for start up.
 
 ## Se hace una conexión para la instancia Beta:
 
-![alt text](screenshots-Lesson-1/image13.png)
+![alt text](../screenshots-Lesson-1/image13.png)
 
 ## Se muestran ambos contenedores en un purto diferente:
 
-![alt text](screenshots-Lesson-1/image14.png)
+![alt text](../screenshots-Lesson-1/image14.png)

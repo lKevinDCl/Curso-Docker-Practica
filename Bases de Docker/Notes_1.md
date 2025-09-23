@@ -41,7 +41,7 @@
     For more examples and ideas, visit:
     https://docs.docker.com/get-started/
 
-![alt text](screenshots-Lesson-1/image0.png)
+![alt text](../screenshots-Lesson-1/image0.png)
 
 > Al ejecutarsre por 2da vez, no indica que esta completamente actualizado
 
@@ -54,4 +54,4 @@
     Status: Image is up to date for hello-world:latest
     docker.io/library/hello-world:latest
 
-![alt text](screenshots-Lesson-1/image1.png)
+![alt text](../screenshots-Lesson-1/image1.png)

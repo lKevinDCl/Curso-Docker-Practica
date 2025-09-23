@@ -31,7 +31,7 @@ docker run -d --name world-db -p 3311:3306 -e MARIADB_USER=example-user -e MARIA
 
 ## Persistencia de datos en docker:
 
-![alt text](screenshots-Lesson-2/image6.png)
+![alt text](../screenshots-Lesson-2/image6.png)
 
 ## Eliminar contenedor y volver a cargarlo:
 
@@ -43,4 +43,4 @@ ee34687ec1be0558ed5cb3fa6f96f232a7c1dd34e10c6e8791d9bf5c5f5a85d9
 
 >> Persitencia de datos:
 
-![alt text](screenshots-Lesson-2/image7.png)
+![alt text](../screenshots-Lesson-2/image7.png)

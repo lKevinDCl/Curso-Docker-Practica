@@ -55,10 +55,10 @@ Status: Downloaded newer image for dpage/pgadmin4:6.17
 34d150e249ded209222f119bc5b07f93ab3a59c9e5e36854acd47ed3af61bc8d
 
 ## Conexion PGAdmin
-![alt text](screenshots-Lesson-3/image1.png)
+![alt text](../screenshots-Lesson-3/image1.png)
 
 ## Conexion fallida:
-![alt text](screenshots-Lesson-3/image2.png)
+![alt text](../screenshots-Lesson-3/image2.png)
 
 ## Crear Red:
 
@@ -125,4 +125,4 @@ Status: Downloaded newer image for dpage/pgadmin4:6.17
 
 ## Resultado Final:
 
-![alt text](screenshots-Lesson-3/image3.png)
+![alt text](../screenshots-Lesson-3/image3.png)

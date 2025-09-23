@@ -6,18 +6,18 @@
 9d3bae6cebe9bdbddd5a34798000e5bcf5b0c302e16ddad57f7378125bb92a1e
 
 ## Test Connection:
-![alt text](screenshots-Lesson-2/image1.png)
+![alt text](../screenshots-Lesson-2/image1.png)
 
 ## Insercion de world.sql:
 
-![alt text](screenshots-Lesson-2/image2.png)
+![alt text](../screenshots-Lesson-2/image2.png)
 
 ## Ejecución :
 
-![alt text](screenshots-Lesson-2/image3.png)
+![alt text](../screenshots-Lesson-2/image3.png)
 
 ## Verificar la data en nuestro docker:
 
-![alt text](screenshots-Lesson-2/image4.png)
+![alt text](../screenshots-Lesson-2/image4.png)
 
-![alt text](screenshots-Lesson-2/image5.png)
+![alt text](../screenshots-Lesson-2/image5.png)

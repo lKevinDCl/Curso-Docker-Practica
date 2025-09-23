@@ -68,12 +68,12 @@ Status: Downloaded newer image for phpmyadmin:5.2.0-apache
 
 ## Servicio de phpmyadmin docker container
 
-![alt text](screenshots-Lesson-2/image8.png)
+![alt text](../screenshots-Lesson-2/image8.png)
 
 
 ## Intento 1 de Inicio de sesion:
 
-![alt text](screenshots-Lesson-2/image9.png)
+![alt text](../screenshots-Lesson-2/image9.png)
 
 > No va  a poder iniciar sesion debido a que el servicio expuesto no se encuentra en la misma red
 

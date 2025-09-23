@@ -75,4 +75,4 @@
 
 ## Network con ambos contenedores en ejecucion:
 
-![alt text](screenshots-Lesson-2/image10.png)
+![alt text](../screenshots-Lesson-2/image10.png)
